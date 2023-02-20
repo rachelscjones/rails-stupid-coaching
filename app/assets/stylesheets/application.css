@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+/* Go on and make the design match the screenshots 🎨 */
+
+.container {
+  margin: 8px;
+}
+
+.container-output {
+  padding: 8px;
+  border-left-width: thick;
+}
+
+.answer {
+  background-color: #FFFFE1;
+}
